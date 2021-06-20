@@ -1,2 +1,2 @@
 # SC_race_txp
-a github
+texture pack for event
