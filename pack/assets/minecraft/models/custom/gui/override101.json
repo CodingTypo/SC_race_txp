@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:custom/extra_models/2xhand",
+  "textures": {
+    "layer0": "minecraft:item/custom/gui/override101"
+  }
+}

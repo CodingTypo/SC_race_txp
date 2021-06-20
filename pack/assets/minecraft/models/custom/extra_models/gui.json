@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+	"textures": {
+        "layer0": "items/iron_sword"
+    },
+    "display": {
+        "gui": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 72, 29, -80 ],
+        "scale": [ 20, 20, 20 ]
+        }
+    }
+
+}
