@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:custom/extra_models/iron_large_engine",
+  "textures": {
+    "layer0": "minecraft:item/custom/gui/override110"
+  }
+}

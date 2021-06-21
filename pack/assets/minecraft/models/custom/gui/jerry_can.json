@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:custom/extra_models/industrial_jerry_can",
+  "textures": {
+    "layer0": "minecraft:item/custom/gui/override110"
+  }
+}

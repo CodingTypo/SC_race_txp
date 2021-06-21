@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:custom/extra_models/wrench",
+  "textures": {
+    "layer0": "minecraft:item/custom/gui/override110"
+  }
+}
